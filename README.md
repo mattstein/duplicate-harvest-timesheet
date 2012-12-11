@@ -1,0 +1,1 @@
+Just a quick and dirty little script that interacts with the Harvest API to duplicate the last-used timesheet. More [here](http://workingconcept.com/blog/script-copy-harvest-timesheet).
